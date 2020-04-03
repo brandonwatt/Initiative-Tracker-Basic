@@ -1,0 +1,7 @@
+Name: Velar HP: 45 Init: 22
+Name: Bon HP: 50 Init: 17
+Mod: Fascinated Dur: 7 Des: Takes no action, -4 reactionary skill checks.
+Name: Dax HP: 50 Init: 16
+Name: Utharna HP: 60 Init: 16
+Mod: Rage Dur: 5 Des: Angry!
+Mod: Haste Dur: 8 Des: +1 atk, AC (dodge), Reflex saves. Additional atk on full-atk. +30ft movement.

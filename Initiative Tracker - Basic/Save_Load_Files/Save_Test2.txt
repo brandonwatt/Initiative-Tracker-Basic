@@ -1,0 +1,6 @@
+Name: Velar HP: 45 Init: 22
+Mod: Dazed Dur: 4 Des: Can Take No Actions.
+Name: Dax HP: 50 Init: 16
+Name: Utharna HP: 60 Init: 16
+Mod: Rage Dur: 5 Des: Angry!
+Mod: Haste Dur: 8 Des: +1 atk, AC (dodge), Reflex saves. Additional atk on full-atk. +30ft movement.

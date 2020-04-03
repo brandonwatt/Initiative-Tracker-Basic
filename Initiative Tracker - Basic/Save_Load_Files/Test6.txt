@@ -1,0 +1,18 @@
+Name: Velar HP: 45 Init: 22
+Mod: Eagle's Splendor Dur: 3 Des: +4 to Cha
+Mod: Deafened Dur: 4 Des: -4 Initiative, -4 perception, 20% spell failure verbal.
+Mod: Fox's Cunning Dur: 11 Des: +4 to Int
+Mod: Cowering Dur: 6 Des: -2 AC, No Dex. Takes No Actions.
+Name: Bon HP: 50 Init: 17
+Mod: Fascinated Dur: 7 Des: Takes no action, -4 reactionary skill checks.
+Mod: Disabled Dur: 4 Des: Single action (no full-round), 1/2 speed.
+Name: Skelly 1 HP: 40 Init: 17
+Name: Dax HP: 50 Init: 16
+Mod: Cat's Grace Dur: 5 Des: +4 to Dex
+Mod: Dazzled Dur: 6 Des: -1 Atk & Perception.
+Mod: Owl's Wisdom Dur: 6 Des: +4 to Wis
+Name: Utharna HP: 60 Init: 16
+Mod: Haste Dur: 8 Des: +1 atk, AC (dodge), Reflex saves. Additional atk on full-atk. +30ft movement.
+Mod: Bull's Strength Dur: 7 Des: +4 to Str
+Mod: Rage Dur: 5 Des: Angry!
+Mod: Bear's Endurance Dur: 10 Des: +4 to Con

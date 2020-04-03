@@ -1,0 +1,6 @@
+Sickened
+-2 Atk, Dmg, saving throws, skill/abili checks.
+
+The character takes a –2 penalty on all attack rolls, 
+weapon damage rolls, saving throws, skill checks, and 
+ability checks.

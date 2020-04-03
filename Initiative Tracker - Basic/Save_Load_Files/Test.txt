@@ -1,0 +1,9 @@
+Name:Callin & Rowna HP:63 Init:5
+Mod:Haste Dur:9
+Mod:Wis Drain Dur:4 Des:-4 to Wis
+Name: Dax HP:60 Init:20
+Mod: Cat's Grace Dur:90 Des:+4 to Dex
+Name:Marco HP:65 Init:22
+Mod:Sickened Dur:10 
+Name:Utharna HP:65 Init:16
+Name:Velar HP:60 Init:23

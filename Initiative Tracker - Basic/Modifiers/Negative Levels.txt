@@ -1,0 +1,20 @@
+Negative Levels
+-1 per lvl to atk, CMB, CMD, saving throws, skill/abili checks.
+
+For each negative level a creature has, it takes a 
+cumulative –1 penalty on all ability checks, attack rolls,
+combat maneuver checks, Combat Maneuver Defense, saving 
+throws, and skill checks. In addition, the creature 
+reduces its current and total hit points by 5 for each 
+negative level it possesses. The creature is also treated 
+as one level lower for the purpose of level-dependent 
+variables (such as spellcasting) for each negative level 
+possessed. Spellcasters do not lose any prepared spells or
+slots as a result of negative levels. If a creature’s 
+negative levels equal or exceed its total Hit Dice, it 
+dies.
+
+A creature with temporary negative levels receives a new 
+saving throw to remove the negative level each day. The DC
+of this save is the same as the effect that caused the 
+negative levels.

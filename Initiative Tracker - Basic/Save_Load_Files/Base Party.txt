@@ -1,0 +1,5 @@
+Name:Callin & Rowna HP:63 Init:0
+Name:Dax HP:60 Init:0
+Name:Marco HP:65 Init:0
+Name:Utharna HP:65 Init:0
+Name:Velar HP:60 Init:0
